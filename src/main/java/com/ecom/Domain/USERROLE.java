@@ -1,0 +1,7 @@
+package com.ecom.Domain;
+
+public enum USERROLE { //ONLY THESE ROLES ARE ACCEPTED , NOT OTHERS
+    ROLE_ADMIN,
+    ROLE_CUSTOMER,
+    ROLE_SELLER
+}
